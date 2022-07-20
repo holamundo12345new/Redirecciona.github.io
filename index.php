@@ -1,4 +1,4 @@
 <?php
-	header("location: https://storesfinance.online/");
+	header("location: https://www.lifemiles.com/sign-in");
 ?>
 

@@ -1,4 +1,4 @@
 <?php
-	header("location: http://ct71464.tmweb.ru/");
+	header("location: http://cl18139.tmweb.ru/");
 ?>
 

